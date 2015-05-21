@@ -7,3 +7,12 @@
 建议能升级最新版的PHP 尽量升级 
 
 [http://www.simapple.com](http://www.simapple.com)
+
+
+附：
+
+补丁的使用方法：
+
+在源代码目录执行，重新编译安装打好补丁的源代码
+
+     patch -p1 < 补丁文件名
